@@ -1,0 +1,6 @@
+[caps]
+app="C:\dev\gs.automation.androidapp\Scripts\documents\apk\beta\build_2951\beta_2951.apk"
+platformName= "Android"
+platformVersion= "6.0"
+deviceName= "Nexus_5X_API_23"
+

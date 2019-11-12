@@ -1,0 +1,215 @@
+<configuration>
+  <usercredentials>
+    <usercredential>
+      <useridentifier>reject-gu</useridentifier>
+      <userdata>
+        <shipfirstname>Reject</shipfirstname>
+        <shiplastname>Tester</shiplastname>
+        <shipcountry>United States of America</shipcountry>
+        <shipaddress>625 WESTPORT PRKWY</shipaddress>
+        <shipcity>Grapevine</shipcity>
+        <shipstate>Texas</shipstate>
+        <shipzipcode>76051</shipzipcode>
+        <shipphonenumber>2141234123</shipphonenumber>
+        <shipemail>francisbarro@gamestop.com</shipemail>
+         <billfirstname></billfirstname>
+         <billlastname></billlastname>
+         <billcountry></billcountry>
+         <billaddress></billaddress>
+         <billcity></billcity>
+         <billstate></billstate>
+         <billzipcode></billzipcode>
+         <billphonenumber></billphonenumber>
+         <billemail></billemail>
+       </userdata>
+     </usercredential>
+     <usercredential>
+       <useridentifier>review-gu</useridentifier>
+       <userdata>
+         <shipfirstname>Review</shipfirstname>
+         <shiplastname>Tester</shiplastname>
+         <shipcountry>United States of America</shipcountry>
+         <shipaddress>625 WESTPORT PRKWY</shipaddress>
+         <shipcity>Grapevine</shipcity>
+         <shipstate>Texas</shipstate>
+         <shipzipcode>76051</shipzipcode>
+         <shipphonenumber>2141234123</shipphonenumber>
+          <shipemail>francisbarro@gamestop.com</shipemail>
+          <billfirstname></billfirstname>
+          <billlastname></billlastname>
+          <billcountry></billcountry>
+          <billaddress></billaddress>
+          <billcity></billcity>
+          <billstate></billstate>
+          <billzipcode></billzipcode>
+          <billphonenumber></billphonenumber>
+          <billemail></billemail>
+        </userdata>
+      </usercredential>
+      <usercredential>
+        <useridentifier>gu</useridentifier>
+        <userdata>
+          <shipfirstname>Accept</shipfirstname>
+          <shiplastname>Tester</shiplastname>
+          <shipcountry>United States of America</shipcountry>
+          <shipaddress>625 WESTPORT PRKWY</shipaddress>
+          <shipcity>Grapevine</shipcity>
+          <shipstate>Texas</shipstate>
+          <shipzipcode>76051</shipzipcode>
+          <shipphonenumber>2141234123</shipphonenumber>
+		  <shipemail>francisbarro@gamestop.com</shipemail>
+          <billfirstname></billfirstname>
+          <billlastname></billlastname>
+          <billcountry></billcountry>
+          <billaddress></billaddress>
+          <billcity></billcity>
+          <billstate></billstate>
+          <billzipcode></billzipcode>
+          <billphonenumber></billphonenumber>
+          <billemail></billemail>
+        </userdata>
+      </usercredential>
+      <usercredential>
+        <useridentifier>purpro</useridentifier>
+        <userdata>
+          <loginemail>auto_user_07@qagsecomprod.oib.com</loginemail>
+          <loginpassword>Testing123</loginpassword>
+          <shipfirstname>Accept</shipfirstname>
+          <shiplastname>Tester</shiplastname>
+          <shipcountry>United States of America</shipcountry>
+          <shipaddress>625 WESTPORT PRKWY</shipaddress>
+          <shipcity>Grapevine</shipcity>
+          <shipstate>Texas</shipstate>
+          <shipzipcode>76051</shipzipcode>
+          <shipphonenumber>1330850368</shipphonenumber>
+          <shipemail>auto_user_07@qagsecomprod.oib.com</shipemail>
+          <billfirstname></billfirstname>
+          <billlastname></billlastname>
+          <billcountry></billcountry>
+          <billaddress></billaddress>
+          <billcity></billcity>
+          <billstate></billstate>
+          <billzipcode></billzipcode>
+          <billphonenumber></billphonenumber>
+          <billemail></billemail>
+        </userdata>
+      </usercredential>
+      <usercredential>
+        <useridentifier>nonpur</useridentifier>
+        <userdata>
+          <loginemail>auto_user_02@qagsecomprod.oib.com</loginemail>
+          <loginpassword>Testing123</loginpassword>
+          <shipfirstname>Accept</shipfirstname>
+          <shiplastname>Tester</shiplastname>
+          <shipcountry>United States of America</shipcountry>
+          <shipaddress>625 WESTPORT PRKWY</shipaddress>
+          <shipcity>Grapevine</shipcity>
+          <shipstate>Texas</shipstate>
+          <shipzipcode>76051</shipzipcode>
+          <shipphonenumber>2141234123</shipphonenumber>
+          <shipemail>auto_user_02@qagsecomprod.oib.com</shipemail>
+          <billfirstname></billfirstname>
+          <billlastname></billlastname>
+          <billcountry></billcountry>
+          <billaddress></billaddress>
+          <billcity></billcity>
+          <billstate></billstate>
+          <billzipcode></billzipcode>
+          <billphonenumber></billphonenumber>
+          <billemail></billemail>
+        </userdata>
+      </usercredential>
+      <usercredential>
+        <useridentifier>purbasic</useridentifier>
+        <userdata>
+          <loginemail>auto_user_03@qagsecomprod.oib.com</loginemail>
+          <loginpassword>Testing123</loginpassword>
+          <shipfirstname>Accept</shipfirstname>
+          <shiplastname>Tester</shiplastname>
+          <shipcountry>United States of America</shipcountry>
+          <shipaddress>625 WESTPORT PRKWY</shipaddress>
+          <shipcity>Grapevine</shipcity>
+          <shipstate>Texas</shipstate>
+          <shipzipcode>76051</shipzipcode>
+          <shipphonenumber>1747648856</shipphonenumber>
+          <shipemail>auto_user_03@qagsecomprod.oib.com</shipemail>
+          <billfirstname></billfirstname>
+          <billlastname></billlastname>
+          <billcountry></billcountry>
+          <billaddress></billaddress>
+          <billcity></billcity>
+          <billstate></billstate>
+          <billzipcode></billzipcode>
+          <billphonenumber></billphonenumber>
+          <billemail></billemail>
+        </userdata>
+      </usercredential>
+      <usercredential>
+        <useridentifier>purelite</useridentifier>
+        <userdata>
+          <loginemail>auto_user_04@qagsecomprod.oib.com</loginemail>
+          <loginpassword>Testing123</loginpassword>
+          <shipfirstname>Accept</shipfirstname>
+          <shiplastname>Tester</shiplastname>
+          <shipcountry>United States of America</shipcountry>
+          <shipaddress>625 WESTPORT PRKWY</shipaddress>
+          <shipcity>Grapevine</shipcity>
+          <shipstate>Texas</shipstate>
+          <shipzipcode>76051</shipzipcode>
+          <shipphonenumber>2015343766</shipphonenumber>
+          <shipemail>auto_user_04@qagsecomprod.oib.com</shipemail>
+          <billfirstname></billfirstname>
+          <billlastname></billlastname>
+          <billcountry></billcountry>
+          <billaddress></billaddress>
+          <billcity></billcity>
+          <billstate></billstate>
+          <billzipcode></billzipcode>
+          <billphonenumber></billphonenumber>
+          <billemail></billemail>
+        </userdata>
+      </usercredential>
+    </usercredentials>
+    <creditcards>
+    <creditcardinfo ID="visa">
+      <cardtype>visa</cardtype>
+      <carddetails>
+        <number>4154296049522246</number>
+        <expirationdate>1220</expirationdate>
+        <cvv>121</cvv>
+      </carddetails>
+    </creditcardinfo>
+    <creditcardinfo ID="mastercard">
+      <cardtype>mastercard</cardtype>
+      <carddetails>
+        <number>5409933534464274</number>
+        <expirationdate>1220</expirationdate>
+        <cvv>121</cvv>
+      </carddetails>
+    </creditcardinfo>
+    <creditcardinfo ID="americanexpress">
+      <cardtype>amex</cardtype>
+      <carddetails>
+        <number>343549368572006</number>
+        <expirationdate>1220</expirationdate>
+        <cvv>1221</cvv>
+      </carddetails>
+    </creditcardinfo>
+    <creditcardinfo ID="discover">
+      <cardtype>discover</cardtype>
+      <carddetails>
+        <number>6011111111111117</number>
+        <expirationdate>1220</expirationdate>
+        <cvv>121</cvv>
+      </carddetails>
+    </creditcardinfo>
+    <creditcardinfo ID="purcc">
+      <cardtype>purcc</cardtype>
+      <carddetails>
+        <number>7788400030004324</number>
+        <expirationdate></expirationdate>
+        <cvv></cvv>
+      </carddetails>
+    </creditcardinfo>
+    </creditcards>
+  </configuration>

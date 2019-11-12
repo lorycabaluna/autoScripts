@@ -1,0 +1,11 @@
+
+require 'csv'
+require 'rspec/core/formatters/base_formatter'
+require 'rspec/legacy_formatters'
+require_relative '../../../../Framework/Automation/common/Appium/src/appium_native_app_requires'
+require_relative '../../../../Framework/Automation/common/Nokogiri/src/nokogiri_requires'
+require_relative '../../../../Framework/Automation/common/Logger/logger_requires'
+require_relative '../../../../Framework/Automation/common/src/data_functions'
+require_relative '../../../../Framework/Automation/common/src/finders_definition'
+require_relative '../../../../Framework/Automation/common/Formatter/formatter_spec'
+#require_relative '../../../../Framework/Automation/common/libraries/rspec_html_formatter-0.3.1/lib/rspec_html_formatter'
