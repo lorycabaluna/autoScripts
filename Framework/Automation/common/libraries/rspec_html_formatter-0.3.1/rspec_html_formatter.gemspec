@@ -59,7 +59,7 @@ Gem::Specification.new do |s|
       s.add_runtime_dependency(%q<rouge>, [">= 1.6.1"])
       s.add_runtime_dependency(%q<activesupport>, [">= 4.1.4"])
       s.add_development_dependency(%q<rspec>, ["~> 3.0.0"])
-      s.add_development_dependency(%q<rdoc>, ["~> 3.12"])
+      s.add_development_dependency(%q<rdoc>, "~> 6.3")
       s.add_development_dependency(%q<bundler>, ["~> 1.0"])
       s.add_development_dependency(%q<jeweler>, ["~> 2.0.1"])
     else
@@ -67,7 +67,7 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<rouge>, [">= 1.6.1"])
       s.add_dependency(%q<activesupport>, [">= 4.1.4"])
       s.add_dependency(%q<rspec>, ["~> 3.0.0"])
-      s.add_dependency(%q<rdoc>, ["~> 3.12"])
+      s.add_dependency(%q<rdoc>, "~> 6.3")
       s.add_dependency(%q<bundler>, ["~> 1.0"])
       s.add_dependency(%q<jeweler>, ["~> 2.0.1"])
     end
@@ -76,7 +76,7 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<rouge>, [">= 1.6.1"])
     s.add_dependency(%q<activesupport>, [">= 4.1.4"])
     s.add_dependency(%q<rspec>, ["~> 3.0.0"])
-    s.add_dependency(%q<rdoc>, ["~> 3.12"])
+    s.add_dependency(%q<rdoc>, "~> 6.3")
     s.add_dependency(%q<bundler>, ["~> 1.0"])
     s.add_dependency(%q<jeweler>, ["~> 2.0.1"])
   end
